@@ -1,4 +1,4 @@
-# csc413-SecondGame
+## CSC 413(Software Development)- Final Project game #2(Pyramid Panic)
 
 ## Student Name : Ahmad El Shakoushy
 
